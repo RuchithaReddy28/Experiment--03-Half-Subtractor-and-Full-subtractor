@@ -80,12 +80,12 @@ endmodule
 ![output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-4.png?raw=true)
 ## FULL SUBRATOR:
 ## Logical symbol
-[output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-5.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-5.png?raw=true)
 ## Truth table
-[output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-6.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-6.png?raw=true)
 ## RTL realization
-[output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-7.png?raw=true)
-## Timing diafram
-[output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-8.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-7.png?raw=true)
+## Timing diagram
+![output](https://github.com/RuchithaReddy28/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-8.png?raw=true)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
